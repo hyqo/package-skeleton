@@ -1,0 +1,27 @@
+{
+    "name": "hyqo/",
+    "description": "",
+    "keywords": [
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleg Sedinkin",
+            "email": "a@aw.wtf"
+        }
+    ],
+    "require": {
+        "php": "7.2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hyqo\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-main": "0.1.x-dev"
+        }
+    }
+}
